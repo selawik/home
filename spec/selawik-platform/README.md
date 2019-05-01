@@ -1,0 +1,2 @@
+# The Selawik Platform Specification
+Since we're working on the [platform overview](https://github.com/selawik/home/blob/master/overview), we're not focusing on writing the Selawik platform specification specifically. When we are done with the platform overview, we will move the appropriate parts from the platform overview to here.
