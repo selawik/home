@@ -38,13 +38,13 @@ If you want to raise a question or issue about the spec's existing content, you 
 Since no programming work has started yet, there are no other repositories right now. However, once work starts, a new repository will be created and it will be linked here. We do not expect any work to start for a while, as we are still busy fleshing out important components of our design. In the meantime, you are free to contribute ideas and fix issues in the platform overview document.
 
 ## Engaging and Contributing
-We welcome contributions and discussion about Selawik. Feel free to ask questions or raise issues on our GitHub repositories. We also have a Discord server that you can join to have quick and more informal conversations. For more information, see our [support guide](https://github.com/selawik/.github/blob/master/SUPPORT).
+We welcome contributions and discussion about Selawik. Feel free to ask questions or raise issues on our GitHub repositories. We also have a Discord server that you can join to have quick and more informal conversations. For more information, see our [support guide](https://github.com/selawik/.github/blob/master/SUPPORT.md).
 
 [![Our discord server link](https://discordapp.com/api/guilds/547491934055170055/widget.png?style=banner2)](https://discord.gg/vZTVBxp)
 
-If you are planning to contribute code, plase read through our [contributing guidelines](https://github.com/selawik/.github/blob/master/CONTRIBUTING) so that it'll adhere with our code style/practices.
+If you are planning to contribute code, plase read through our [contributing guidelines](https://github.com/selawik/.github/blob/master/CONTRIBUTING.md) so that it'll adhere with our code style/practices.
 
-This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community. For more information, see our [full code of conduct](https://github.com/selawik/.github/blob/master/CODE_OF_CONDUCT).
+This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community. For more information, see our [full code of conduct](https://github.com/selawik/.github/blob/master/CODE_OF_CONDUCT.md).
 
 ## Licensing
 The Selawik project is free software. Most code repositories will be licensed under the GPL, but often linking will be allowed under the license of your choice. Make sure you read the full license in the repository for full information. Any substantial documentation, such as this repository, is licensed under CC-BY 4.0.
