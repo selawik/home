@@ -123,7 +123,7 @@ Assuming static variables could be mutated, even though the function is supposed
 Thus, all statics must be constant. To replace static state, capability objects will be used instead. This way, side effects can be modeled using the conventional methods, plus the security that comes with capabilities. Creating objects at compile time can open up many novel optimizations as well, like sharing objects across all processes.
 
 ### Leaky Constructors
-A leaky constructors shares `this` before construction is finished. This is dangerous because:
+A leaky constructor shares `this` before construction is finished. This is dangerous because:
 - Other consumers can receive objects, not knowing that they are not finished initializing. They can assume invariants of such objects that are, in reality, suspect.
 - A constructor can pass a mutable reference of itself, even if a supposedly immutable object is being constructed, meaning that immutability guarantees can be broken.
 
