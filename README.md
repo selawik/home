@@ -1,5 +1,5 @@
 
-![The Selawik Project banner](https://repository-images.githubusercontent.com/184154311/b977ca00-6aae-11e9-8c52-4e50b5a17952)
+![The Selawik Project banner](https://repository-images.githubusercontent.com/184154311/db58ef80-7b36-11e9-975d-7e024a4ea261)
 
 [![Our discord server link](https://discordapp.com/api/guilds/547491934055170055/widget.png?style=shield)](https://discord.gg/vZTVBxp) 
 
