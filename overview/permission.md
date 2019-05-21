@@ -3,7 +3,7 @@ Permission and ownership are two core components embedded in Selawik's type syst
 
 Permission and ownership annotations are components of the type they are defined alongside. It can be helpful to think of the type system as a two-dimensional lattice, with one permission being the object's type and the other being its permission/ownership, demonstrating that any object can be converted to the type `readonly Object`.
 
-![Permission lattice](https://user-images.githubusercontent.com/27514983/57977054-3a92f480-79bd-11e9-9950-8c469b4a3b32.png)
+![Permission lattice](https://i.imgur.com/2fB1idj.png)
 
 
 *A variant of this system has been [formally verified](https://www.microsoft.com/en-us/research/publication/uniqueness-and-reference-immutability-for-safe-parallelism).*
